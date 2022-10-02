@@ -10,3 +10,4 @@ class User extends Authenticatable implements AuthenticatableContract
     use EloquentAuthenticatable;
 }
 
+test
